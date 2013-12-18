@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_worldview"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="World View"/>
+    
+    <item
+        android:id="@+id/action_cityview"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="City View"/>
+    
+    <item
+        android:id="@+id/action_findme"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Find Me"/>
+
+</menu>
